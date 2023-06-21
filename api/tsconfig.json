@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "outDir": "dist",
+    "rootDir": ".",
+    "sourceMap": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true // TODO: deal with error TS2420; see https://github.com/remix-run/remix/issues/4371
+  }
+}
